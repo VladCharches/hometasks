@@ -1,0 +1,12 @@
+
+###Snapshot 1 : 2016-08-22 16:39:45 ###
+===== System-wide CPU utilization per cpu=====
+scputimes(user=7364.08, nice=3.54, system=6490.88, idle=724676.59, iowait=2242.21, irq=411.39, softirq=28.73, steal=374.9, guest=0.0)
+===== System-wide Memory usage=====
+svmem(total=4016611328, available=1839058944, percent=54.2, used=3652714496, free=363896832, active=2006712320, inactive=1270480896, buffers=380755968, cached=1094406144, shared=7700480)
+===== System-wide Swap memory statistics=====
+sswap(total=4294963200, used=30593024, free=4264370176, percent=0.7, sin=3162112, sout=32743424)
+===== System-wide Disk I/O statistics=====
+sdiskio(read_count=248693, write_count=2501270, read_bytes=3505857024, write_bytes=16845740032, read_time=1205617, write_time=247721636, read_merged_count=63697, write_merged_count=1608734, busy_time=5215704)
+===== System-wide Network I/O statistics=====
+{'lo': snetio(bytes_sent=67421838, bytes_recv=67421838, packets_sent=70482, packets_recv=70482, errin=0, errout=0, dropin=0, dropout=0), 'eth0': snetio(bytes_sent=132832571, bytes_recv=681034206, packets_sent=814651, packets_recv=1029188, errin=0, errout=0, dropin=142, dropout=0)}
