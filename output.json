@@ -1,0 +1,131 @@
+
+
+###Snapshot 1 : 2016-08-23 14:16:43 ###
+
+ ===== System-wide CPU utilization per cpu=====
+[
+    1.0,
+    3.0
+]
+ ===== System Memory usage=====
+{
+    "free": 325197824,
+    "used": 3691413504,
+    "shared": 7700480,
+    "percent": 53.9,
+    "inactive": 1286123520,
+    "active": 2032295936,
+    "total": 4016611328,
+    "buffers": 431775744,
+    "available": 1852321792,
+    "cached": 1095348224
+}
+===== System-wide Swap memory statistics=====
+{
+    "free": 4263583744,
+    "sin": 3162112,
+    "used": 31379456,
+    "percent": 0.7,
+    "total": 4294963200,
+    "sout": 33529856
+}
+ ===== System-wide Disk I/O statistics=====
+{
+    "read_merged_count": 63827,
+    "write_bytes": 19339032576,
+    "read_time": 1222163,
+    "read_bytes": 3538280960,
+    "busy_time": 6334564,
+    "write_time": 253653394,
+    "write_count": 2899749,
+    "write_merged_count": 1818954,
+    "read_count": 256000
+}
+ ===== System-wide Network I/O statistics=====
+{
+    "lo": [
+        79902390,
+        79902390,
+        82725,
+        82725,
+        0,
+        0,
+        0,
+        0
+    ],
+    "eth0": [
+        154874248,
+        742275077,
+        956275,
+        1185865,
+        0,
+        0,
+        142,
+        0
+    ]
+}
+
+###Snapshot 2 : 2016-08-23 14:21:44 ###
+
+ ===== System-wide CPU utilization per cpu=====
+[
+    2.0,
+    4.0
+]
+ ===== System Memory usage=====
+{
+    "free": 324816896,
+    "used": 3691794432,
+    "shared": 7700480,
+    "percent": 53.9,
+    "inactive": 1286144000,
+    "active": 2032549888,
+    "total": 4016611328,
+    "buffers": 431878144,
+    "available": 1852084224,
+    "cached": 1095389184
+}
+===== System-wide Swap memory statistics=====
+{
+    "free": 4263583744,
+    "sin": 3162112,
+    "used": 31379456,
+    "percent": 0.7,
+    "total": 4294963200,
+    "sout": 33529856
+}
+ ===== System-wide Disk I/O statistics=====
+{
+    "read_merged_count": 63827,
+    "write_bytes": 19343579136,
+    "read_time": 1222163,
+    "read_bytes": 3538280960,
+    "busy_time": 6338779,
+    "write_time": 253664922,
+    "write_count": 2900637,
+    "write_merged_count": 1819176,
+    "read_count": 256000
+}
+ ===== System-wide Network I/O statistics=====
+{
+    "lo": [
+        80052820,
+        80052820,
+        82855,
+        82855,
+        0,
+        0,
+        0,
+        0
+    ],
+    "eth0": [
+        154950089,
+        742478589,
+        956805,
+        1186408,
+        0,
+        0,
+        142,
+        0
+    ]
+}
