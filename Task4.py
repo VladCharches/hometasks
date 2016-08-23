@@ -79,4 +79,4 @@ schedule.every(int(period)).seconds.do(main)
 
 while True:
     schedule.run_pending()
-    time.sleep(0)
+    time.sleep(1)
