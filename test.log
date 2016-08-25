@@ -1,0 +1,12 @@
+2016-08-25 16:08:51,491 root         INFO     Object <__main__.JsonData object at 0x7f780c2fcbe0> was created successfully
+2016-08-25 16:08:51,491 root         INFO     Object <__main__.TxtData object at 0x7f780c2fccc0> was created successfully
+2016-08-25 16:08:51,491 root         INFO     Scheduler started
+2016-08-25 16:09:21,491 schedule     INFO     Running job Every 30 seconds do main() (last run: [never], next run: 2016-08-25 16:09:21)
+2016-08-25 16:09:21,493 root         INFO     output.txt file was written successfully
+2016-08-25 16:09:21,493 root         INFO     Wrapper run
+2016-08-25 16:09:51,493 schedule     INFO     Running job Every 30 seconds do main() (last run: 2016-08-25 16:09:21, next run: 2016-08-25 16:09:51)
+2016-08-25 16:09:51,495 root         INFO     output.txt file was written successfully
+2016-08-25 16:09:51,496 root         INFO     Wrapper run
+2016-08-25 16:10:21,496 schedule     INFO     Running job Every 30 seconds do main() (last run: 2016-08-25 16:09:51, next run: 2016-08-25 16:10:21)
+2016-08-25 16:10:21,497 root         INFO     output.txt file was written successfully
+2016-08-25 16:10:21,497 root         INFO     Wrapper run
